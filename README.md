@@ -1,4 +1,4 @@
-# My Training for the personal project
+# Simple backend CRUD implementation
 
 1. PostgreSQL (CRUD)
 2. Express
